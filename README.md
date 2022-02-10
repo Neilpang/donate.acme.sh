@@ -12,7 +12,18 @@
 <p>Wechat(微信号: panglong55    欢迎加好友)</p>
  <img src="./wx.jpg" width = "200" />
 </li>
+ 
+ 
+<li>
+<p>USDT (TetherUS), Ethereum ERC20 </p>
+<pre>
+0xa92d4c5617a595bf4d3d5c10791a6a9794b93306
 
+</pre>
+</li>
+ 
+ 
+ 
 </ol>
 
 
